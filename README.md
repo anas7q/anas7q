@@ -14,8 +14,8 @@
 </p> 
 
 - 🏢 I'm a Software Engineer and Technical Community Manager at Almadrsa
-- 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with JavaScript, ReactJS, and NodeJS, or anything related to web development.
+- 👨‍💻 As a BIT student, I'm constantly learning and exploring new technologies to improve my skills.
+- 💬 Ask me about my experience with html, CSS, and UI-UX, or anything related to web development.
 - ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
 - 👨‍💻 Check out my portfolio at to see some of the projects I've worked on.
 
